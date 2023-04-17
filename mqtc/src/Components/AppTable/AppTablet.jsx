@@ -14,8 +14,7 @@ const AppTablet = () => {
         <Page>
           <Table>
             <TableHead>
-              <tr>
-                <th>UID</th>
+              <tr>               
                 <th>Header</th>
                 <th>Observations</th>
                 <th>Status</th>

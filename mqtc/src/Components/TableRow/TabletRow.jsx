@@ -4,8 +4,7 @@ import { Row } from "./styled/tabletRowStyled";
 export const TabletRow = ({ data }) => {
   return (
     <>
-      <Row>
-        <td>{data.uid}</td>
+      <Row>      
         <td>{data.header}</td>
         <td>{data.observations}</td>
         <td>{data.status}</td>
